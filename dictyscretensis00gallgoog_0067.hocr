@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictyscretensis00gallgoog/dictyscretensis00gallgoog_0067.png"; bbox 0 0 4650 5492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 538 1238 1642 1571">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 538 1238 1642 1571">
+     <span class='ocr_line' id='line_1_1' title="bbox 538 1238 1642 1571; baseline -0.007 -150"><span class='ocrx_word' id='word_1_1' title='bbox 538 1245 931 1435; x_wconf 85' lang='lat' dir='ltr'>LUD.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1066 1238 1642 1571; x_wconf 88' lang='lat' dir='ltr'>SMIDS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 2162 1812 2355">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 2162 1812 2355">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 2162 1812 2355; baseline -0.011 0"><span class='ocrx_word' id='word_1_3' title='bbox 369 2166 1022 2355; x_wconf 90' lang='lat' dir='ltr'>DICTYOS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1107 2162 1812 2341; x_wconf 89' lang='lat' dir='ltr'><strong>CRETENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 520 2680 1667 2856">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 520 2680 1667 2856">
+     <span class='ocr_line' id='line_1_3' title="bbox 520 2680 1667 2856; baseline -0.006 -37"><span class='ocrx_word' id='word_1_5' title='bbox 520 2680 1667 2856; x_wconf 80' lang='lat' dir='ltr'><strong>BELLOTROJANQ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 530 2966 1574 3381">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 530 2966 1574 3381">
+     <span class='ocr_line' id='line_1_4' title="bbox 691 2966 1497 3122; baseline 0.006 -45"><span class='ocrx_word' id='word_1_6' title='bbox 691 2971 850 3079; x_wconf 83' lang='lat' dir='ltr'><strong>Libris</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 868 2976 1215 3122; x_wconf 81' lang='lat' dir='ltr'>appensamm,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1254 2966 1497 3086; x_wconf 61' lang='lat' dir='ltr'>succindh</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 530 3154 1574 3381; baseline 0.003 -69"><span class='ocrx_word' id='word_1_9' title='bbox 530 3154 1574 3381; x_wconf 10' lang='lat' dir='ltr'>*iNTERPRETAT1Q</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2330 5492">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2330 5492">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2330 5492; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2330 5492; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

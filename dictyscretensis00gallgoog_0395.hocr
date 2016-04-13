@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictyscretensis00gallgoog/dictyscretensis00gallgoog_0395.png"; bbox 0 0 4650 5492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 1373 1786 1716">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 1341 1786 1716">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 1373 1786 1716; baseline -0.008 -68"><span class='ocrx_word' id='word_1_1' title='bbox 365 1373 840 1634; x_wconf 68' lang='grc' dir='ltr'>ΡἋυω</span> <span class='ocrx_word' id='word_1_2' title='bbox 940 1465 1786 1716; x_wconf 79' lang='lat' dir='ltr'>V1ND1NG11</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 239 2103 1986 2982">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 239 1963 1986 2982">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 2103 1986 2442; baseline -0.013 -91"><span class='ocrx_word' id='word_1_3' title='bbox 239 2118 885 2350; x_wconf 79' lang='lat' dir='ltr'>DICTYM</span> <span class='ocrx_word' id='word_1_4' title='bbox 950 2103 1986 2442; x_wconf 72' lang='lat' dir='ltr'><strong>CRETENSEM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 326 2500 1835 2728; baseline -0.015 -70"><span class='ocrx_word' id='word_1_5' title='bbox 326 2517 493 2728; x_wconf 74' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 575 2511 1023 2668; x_wconf 74' lang='lat' dir='ltr'>BELLo</span> <span class='ocrx_word' id='word_1_7' title='bbox 1104 2500 1835 2684; x_wconf 77' lang='lat' dir='ltr'>TROJANO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 896 2835 1265 2982; baseline -0.019 -34"><span class='ocrx_word' id='word_1_8' title='bbox 896 2835 1265 2982; x_wconf 63' lang='lat' dir='ltr'>Now</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2330 5492">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2330 5492">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2330 5492; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2330 5492; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
